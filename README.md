@@ -1,4 +1,4 @@
-# IshTop MVP
+# ZudKor TJ MVP
 
 Investor-ready MVP web platform for temporary jobs in Tajikistan and CIS.
 

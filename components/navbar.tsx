@@ -15,6 +15,9 @@ export default function Navbar() {
           ZudKor TJ
         </Link>
         <nav className="hidden items-center gap-6 text-sm font-medium text-slate-600 md:flex">
+          <Link href="/investors" className="hover:text-primary">
+            {t("navInvestors")}
+          </Link>
           <Link href="/dashboard/jobs" className="hover:text-primary">
             {t("navJobs")}
           </Link>

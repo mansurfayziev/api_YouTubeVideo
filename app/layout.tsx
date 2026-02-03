@@ -7,7 +7,7 @@ import Navbar from "@/components/navbar";
 const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata: Metadata = {
-  title: "IshTop - Платформа временной работы",
+  title: "ZudKor TJ - Платформа временной работы",
   description: "Временная работа и исполнители для Таджикистана и СНГ"
 };
 
