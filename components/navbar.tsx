@@ -12,7 +12,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 border-b border-white/50 bg-white/80 backdrop-blur">
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="text-xl font-bold text-primary">
-          IshTop
+          ZudKor TJ
         </Link>
         <nav className="hidden items-center gap-6 text-sm font-medium text-slate-600 md:flex">
           <Link href="/dashboard/jobs" className="hover:text-primary">
