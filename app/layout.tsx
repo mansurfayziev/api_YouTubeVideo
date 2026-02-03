@@ -8,7 +8,11 @@ const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata: Metadata = {
   title: "ZudKor TJ - Платформа временной работы",
-  description: "Временная работа и исполнители для Таджикистана и СНГ"
+  description: "Временная работа и исполнители для Таджикистана и СНГ",
+  icons: {
+    icon: "/logo.svg",
+    apple: "/logo.svg"
+  }
 };
 
 export default function RootLayout({

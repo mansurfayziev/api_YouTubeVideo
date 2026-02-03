@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="64" fill="#2B1454"/>
+  <path d="M76 260C150 200 246 180 344 176C372 175 400 176 436 180" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M86 300C160 248 252 228 346 224C372 223 402 224 430 228" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+  <path d="M376 140L384 118L392 140L414 148L392 156L384 178L376 156L354 148L376 140Z" fill="#FFFFFF"/>
+  <path d="M420 176L426 160L432 176L448 182L432 188L426 204L420 188L404 182L420 176Z" fill="#FFFFFF"/>
+  <text x="68" y="320" font-family="'Inter', 'Segoe UI', sans-serif" font-size="124" font-weight="700" fill="#FFFFFF" letter-spacing="1">
+    ZudKor
+  </text>
+</svg>
